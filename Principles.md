@@ -6,14 +6,14 @@ Transactions are only a subset of human communication and interaction. Though th
 
 More generally, technology is always neutral. It is the network of users who define the impact that technology has on society. As such, we cannot expect to implement meaningful change at a systemic level without both sufficiently advanced technologies, and communities robust enough to use magic responsibly.
 
-Humour goes a long way, too. Please remember that this is a living document and [pull requests](https://help.github.com/articles/creating-a-pull-request/) are welcome anytime with improvements and ammendments. Feel free to also just leave a comment.
+Humour goes a long way, too. Please remember that this is a living document and [pull requests](https://help.github.com/articles/creating-a-pull-request/) are welcome anytime with improvements and amendments. Feel free to also just leave a comment.
 
 ## Changelog 
 
 01/10/2017
 I have looked at various notions of community for this initial draft, from African ones I have grown up around, to various religious traditions and practices, and more modern reimaginings like the burner community. However, I definitely haven't covered them all, so feel free to add those that are closest to your own experience.
 
-It's no mistake that the most popular OS on web servers and other machines that leverage open source technology is called Ubuntu. Mark Shuttleworth was referencing an old and deep African concept that, on the surface, signifies our interconnectedness and interdependence. It comes from the saying *'umuntu ngumuntu ngabantu'*; a human being is a human being only through other human beings. Deeper down, though, ubuntu has to do with the structure and pattern of the universe itself, the fine balance it maintains, with humanity as the harmonising note between natural and supernatural. A little cosmic for the introducion, but we might as well start big. Ubuntu underpins all of the below, much like it probably runs the server from which you are receiving this content. Server... another interesting word.
+It's no mistake that the most popular OS on web servers and other machines that leverage open source technology is called Ubuntu. Mark Shuttleworth was referencing an old and deep African concept that, on the surface, signifies our interconnectedness and interdependence. It comes from the saying *'umuntu ngumuntu ngabantu'*; a human being is a human being only through other human beings. Deeper down, though, ubuntu has to do with the structure and pattern of the universe itself, the fine balance it maintains, with humanity as the harmonising note between natural and supernatural. A little cosmic for the introduction, but we might as well start big. Ubuntu underpins all of the below, much like it probably runs the server from which you are receiving this content. Server... another interesting word.
 
 ## Principles
 
@@ -30,7 +30,7 @@ It's no mistake that the most popular OS on web servers and other machines that 
 > An AfrikaBurn principle, here because phrases like 'permissionless innovation' and 'low barriers to access' are meaningless without an educated community capable of innovating in the first place. 
 
 *5) We use technology responsibly, and to the benefit of our peers*
-> Technology is neutral; its uses are not. Using technology repsonsibly doesn't necessarily mean using only one side of a double-edged blade, it means cutting with the grain of the wood.
+> Technology is neutral; its uses are not. Using technology responsibly doesn't necessarily mean using only one side of a double-edged blade, it means cutting with the grain of the wood.
 
 *6) Give, without expecting anything in return*
 > No, we're not asking for donations. This is just a truly beautiful concept - give of your time, give of your knowledge, give of your enthusiasm. Find something that inspires you to the point where giving is a blessing, not a burden.
